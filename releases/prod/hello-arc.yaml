@@ -16,5 +16,5 @@ spec:
     replicaCount: 3
     env:
       name: MESSAGE
-      value: AKS-HCI using GitOps Demo !!
+      value: Arc demo using GitOps!!
 
