@@ -13,8 +13,8 @@ spec:
     image:
       repository: liorkamrat/hello-arc
       tag: latest
-    replicaCount: 5
+    replicaCount: 3
     env:
       name: MESSAGE
-      value: AKS-HCI GitOps Demo :)
+      value: AKS-HCI using GitOps Demo !!
 
